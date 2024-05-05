@@ -1,0 +1,46 @@
+h1 {
+  margin: 10px;
+}
+
+img {
+  display: inline;
+}
+
+h2 {
+  display: inline;
+  margin: 0;
+}
+
+li {
+  list-style: none;
+}
+
+.input-city {
+  background: rgba(255, 255, 255, 0.5);
+  padding: 5px 10px 5px 10px;
+  border: none;
+  border-radius: 4px;
+  margin: 5px;
+  width: 80%;
+}
+
+.search-city-button {
+  background-color: #fff;
+  padding: 5px 10px;
+  border: none;
+  border-radius: 4px;
+  margin: 4px;
+  width: 16.5%;
+}
+
+.search-city-button:hover {
+  cursor: pointer;
+  box-shadow: #f7b602 2px 2px 4px;
+}
+
+.temperature {
+  font-size: 60px;
+  font-weight: 300;
+  position: relative;
+  top: -12px;
+}
